@@ -1,13 +1,13 @@
 {
-  "name": "sketch-assistant-template",
-  "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
+  "name": "severity-levels-example",
+  "homepage": "https://github.com/jedrichards/severity-levels-example",
   "version": "0.1.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
   "sketch-assistant": {
-    "title": "Sketch Assistant Template",
-    "description": "Template repository for a starter Assistant project",
+    "title": "Severity Levels Examples",
+    "description": "Emits error, warning and info severity violations",
     "icon": ""
   },
   "keywords": [
